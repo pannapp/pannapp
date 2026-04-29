@@ -40,8 +40,8 @@
 - Email: anhngu.pham2004@gmail.com
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pangu04&show_icons=true&theme=tokyonight&hide=contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pannapp&show_icons=true&theme=tokyonight&hide=contribs)
 ## Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangu04&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pannapp&layout=compact)
 
 # Thanks for visiting my profile!
